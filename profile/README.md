@@ -112,3 +112,6 @@ Eventually, Bide should be moved to a Blockchain, specifically a Level 2 Blockch
 ### Note on Open-Source
 
 Everything about this project should be open-source, especially before it moves to a Blockchain. One of the key aspects of this project is the idea that people work well in communities with one another. Therefore, it would not make sense for this to be closed-source.
+
+Attribution:
+<a href="https://www.flaticon.com/free-icons/government" title="government icons">Profile Image</a>
